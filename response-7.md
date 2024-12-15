@@ -17,4 +17,4 @@ do get implemented. Something this important should be actively
 maintained.
 
 Thanks for reading and as always, all comments, critiques and questions
-are highly appreciated. Here a link to the [previous article response](https://github.com/n6ls0n/article-responses/blob/master/response-6.md).
+are highly appreciated. Here's a link to the [previous article response](https://github.com/n6ls0n/article-responses/blob/master/response-6.md).
