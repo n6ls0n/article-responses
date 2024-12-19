@@ -11,4 +11,6 @@ language.
 It gives you just the right amount of context to make you productive
 from day one.
 
+You can also read this [article-response on X](https://x.com/n6ls0n/status/1869579161859436726)
+
 All comments, critiques and questions are highly appreciated.
